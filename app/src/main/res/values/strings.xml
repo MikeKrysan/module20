@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Module20</string>
+    <string name="res_text">Текст из ресурсов</string>
+    <string name="motivation_text">Успех - это твой долг, обязанность и ответсвенность. И что тут скажешь?</string>
+</resources>

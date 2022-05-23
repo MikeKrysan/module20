@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Module20</string>
+    <string name="res_text">Text from resources</string>
+    <string name="motivation_text">Success is your duty and responsibility. And what can I say?</string>
+</resources>
